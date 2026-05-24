@@ -41,8 +41,8 @@
 
     "hotel": {
     "name": "inny",
-    "address": " Poland",
-    "booking": "www.google.com"
+    "address": "Jeszcze nie mam pomyslu",
+    "booking": "https://www.booking.com/"
  }
   },
   {
@@ -56,8 +56,8 @@
 
     "hotel": {
     "name": "inny",
-    "address": " Poland",
-    "booking": "www.google.com"
+    "address": "Jeszcze nie mam pomyslu",
+    "booking": "https://www.booking.com/"
  }
     
   },
@@ -72,8 +72,8 @@
     
     "hotel": {
     "name": "inny",
-    "address": " Poland",
-    "booking": "www.google.com"
+    "address": "Poland",
+    "booking": "https://www.booking.com/"
  }
   }
 ]
