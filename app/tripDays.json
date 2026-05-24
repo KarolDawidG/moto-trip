@@ -1,0 +1,79 @@
+[
+  {
+    "day": "Dzień 1",
+    "route": "Poznań → Olsztyn",
+    "distance": "351 km",
+    "time": "4h",
+    "link": "https://maps.app.goo.gl/TV6h2KGKYN1LGfyT9",
+    "embed": "https://www.google.com/maps?q=Poznan,Olsztyn&output=embed",
+    "dzien": "05.06.2026",
+    
+    "hotel": {
+    "name": "3-Pokojowy Apartament Villa Park - Top Location",
+    "address": "Wyzwolenia 16 69, 10-106 Olsztyn, Poland",
+    "booking": "https://spanienamazurach.pl/noclegi/rezerwuj/bg/242269/WMo7h"
+  }
+  },
+  {
+    "day": "Dzień 2",
+    "route": "Olsztyn → Reszel",
+    "distance": "134 km",
+    "time": "2h",
+    "link": "https://maps.app.goo.gl/iMS5ERNhn7XTZBqb7",
+    "embed": "https://www.google.com/maps?q=Olsztyn,Reszel&output=embed",
+    "dzien": "06.06.2026",
+
+    "hotel": {
+    "name": "Zamek Reszel",
+    "address": "Podzamcze 3, 11-440 Reszel, Poland",
+    "booking": "https://zamekreszel.pl/zamek/galeria/hotel"
+    
+ }
+  },
+  {
+    "day": "Dzień 3",
+    "route": "Reszel → Giżycko",
+    "distance": "86 km",
+    "time": "2h",
+    "link": "https://maps.app.goo.gl/geeePqXHguHXzLj68",
+    "embed": "https://www.google.com/maps?q=Reszel,Gizycko&output=embed",
+    "dzien": "07.06.2026",
+
+    "hotel": {
+    "name": "inny",
+    "address": " Poland",
+    "booking": "www.google.com"
+ }
+  },
+  {
+    "day": "Dzień 4 – część 1",
+    "route": "Giżycko → Mikołajki",
+    "distance": "70 km",
+    "time": "1h",
+    "link": "https://maps.app.goo.gl/k5jkurSjFpdDNw9b7",
+    "embed": "https://www.google.com/maps?q=Gizycko,Mikolajki&output=embed",
+    "dzien": "08.06.2026",
+
+    "hotel": {
+    "name": "inny",
+    "address": " Poland",
+    "booking": "www.google.com"
+ }
+    
+  },
+    {
+    "day": "Dzień 4 – część 2",
+    "route": "Wierzba → Ostróda",
+    "distance": "186 km",
+    "time": "3h",
+    "link": "https://maps.app.goo.gl/AByYwTUPEwkBGUtc6",
+    "embed": "https://www.google.com/maps?q=Wierzba,Ostroda&output=embed",
+    "dzien": "08.06.2026",
+    
+    "hotel": {
+    "name": "inny",
+    "address": " Poland",
+    "booking": "www.google.com"
+ }
+  }
+]
